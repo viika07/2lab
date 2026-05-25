@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EditGroupTrainingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditPersonalTrainingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GroupTrainingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonalTrainingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
